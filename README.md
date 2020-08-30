@@ -6,7 +6,7 @@
 
 
 
-## What you will create
+
 
  crypto currency price checking app. you'll be able to monitor your bitcoin investents on the move!
 
